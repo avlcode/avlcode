@@ -21,6 +21,19 @@
 
 ---
 
+## 最近发布 / Recent Releases / 最近發佈
+
+> 仅展示最近 3 天的滚动发布,完整记录见[发布日志](https://www.avlcode.cn/changelog/)。
+> Showing the last 3 days only; see the full [changelog](https://www.avlcode.cn/changelog/).
+
+| 日期 Date | 版本 Version | 说明 Summary |
+| --- | --- | --- |
+| 2026-06-29 | `v0.6.29-alpha` | 新增全库语义检索与问答(`code.search` / `code.ask`):用自然语言定位代码逻辑,纯本地、零向量、可离线。 |
+| 2026-06-28 | `v0.6.28-alpha` | 自修复循环:AI 遇错按错误类型自动换策略自愈,并在供应商持续不可用时提示切换备选。 |
+| 2026-06-27 | `v0.6.27-alpha` | 软件物料清单(SBOM)与供应链漏洞排查:生成 / 互转 SBOM,对照 OSV·CVE·KEV 排查并输出 OpenVEX。 |
+
+---
+
 ## 简体中文
 
 ### 什么是 AVL Code
