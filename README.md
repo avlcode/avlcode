@@ -23,8 +23,8 @@
 
 ## 最近发布 / Recent Releases / 最近發佈
 
-> 仅展示最近 3 天的滚动发布,完整记录见[发布日志](https://www.avlcode.cn/changelog/)。
-> Showing the last 3 days only; see the full [changelog](https://www.avlcode.cn/changelog/).
+> 仅展示最近 3 天的滚动发布,同一天若有多个版本则每个版本各占一行;完整记录见[发布日志](https://www.avlcode.cn/changelog/)。
+> Showing the last 3 days only — one row per version (multiple rows if a day has several); see the full [changelog](https://www.avlcode.cn/changelog/).
 
 | 日期 Date | 版本 Version | 说明 Summary |
 | --- | --- | --- |
